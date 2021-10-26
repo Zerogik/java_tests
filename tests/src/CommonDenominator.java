@@ -42,6 +42,7 @@ public class CommonDenominator {
             System.out.print(numerator[i] + " ; ");
         }
         System.out.println();
+        System.out.println();
         System.out.println("------------");
         System.out.println("    " + denominator);
 
